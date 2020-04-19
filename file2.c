@@ -7,6 +7,6 @@ void main()
     if(n>0)
         cout<<"positive";
       else
-         cout<<"negative";
+         cin>>n;
     getch();
 }
